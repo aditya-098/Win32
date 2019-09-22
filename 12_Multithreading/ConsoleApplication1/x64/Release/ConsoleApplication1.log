@@ -1,0 +1,10 @@
+﻿  Generating code
+g:\win32_assingments\03_helloworld\consoleapplication1\multithreading.cpp(158): warning C4700: uninitialized local variable 'i' used
+g:\win32_assingments\03_helloworld\consoleapplication1\multithreading.cpp(160): warning C4700: uninitialized local variable 'hdc' used
+g:\win32_assingments\03_helloworld\consoleapplication1\multithreading.cpp(129): warning C4700: uninitialized local variable 'i' used
+g:\win32_assingments\03_helloworld\consoleapplication1\multithreading.cpp(131): warning C4700: uninitialized local variable 'hdc' used
+  3 of 4 functions (75.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ConsoleApplication1.vcxproj -> G:\Win32_Assingments\12_Multithreading\ConsoleApplication1\x64\Release\ConsoleApplication1.exe
