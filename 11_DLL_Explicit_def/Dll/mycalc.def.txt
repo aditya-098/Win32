@@ -1,0 +1,6 @@
+LIBRARY   Win32Project1
+EXPORT
+	add @1
+	sub @2
+	mul @3
+ 
