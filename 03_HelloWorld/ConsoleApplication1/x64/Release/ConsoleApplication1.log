@@ -1,0 +1,6 @@
+﻿  MyHelloWorld.cpp
+MyHelloWorld.cpp(69): warning C4101: 'chString': unreferenced local variable
+  Generating code
+  Finished generating code
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  ConsoleApplication1.vcxproj -> G:\Win32_Assingments\03_HelloWorld\ConsoleApplication1\x64\Release\ConsoleApplication1.exe
