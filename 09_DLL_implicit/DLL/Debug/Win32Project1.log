@@ -1,0 +1,7 @@
+﻿  math.cpp
+g:\win32example\win32project1\math.cpp(6): error C2375: 'add': redefinition; different linkage
+  g:\win32example\win32project1\math.h(6): note: see declaration of 'add'
+g:\win32example\win32project1\math.cpp(17): error C2375: 'sub': redefinition; different linkage
+  g:\win32example\win32project1\math.h(11): note: see declaration of 'sub'
+g:\win32example\win32project1\math.cpp(27): error C2375: 'mul': redefinition; different linkage
+  g:\win32example\win32project1\math.h(15): note: see declaration of 'mul'

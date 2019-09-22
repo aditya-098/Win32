@@ -1,0 +1,8 @@
+﻿  Calculator.cpp
+  Generating code
+g:\win32_assingments\09_dll_implicit\main_exe\calculator.cpp(12): warning C4700: uninitialized local variable 'c' used
+  1 of 5 functions (20.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MultiThread.vcxproj -> G:\Win32_Assingments\09_DLL_implicit\Main_Exe\x64\Release\MultiThread.exe
